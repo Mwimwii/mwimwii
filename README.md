@@ -16,5 +16,5 @@ As an Opensource fanatic and slightly experience developer, it would be a pleasu
 
 Currently looking for some work at the moment, so if you happen to stumble on this profile
 
-Please Reach out to me on [Whatsapp](https://wa.me/+260771589259), [Linkedin](https://linkedin.com/in/mwilv): Please drop a note if you do)
+Please Reach out to me on [Whatsapp](https://wa.me/+260771589259), [Linkedin](https://linkedin.com/in/mwilv). (Please drop a note if you do)
 
