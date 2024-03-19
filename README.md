@@ -1,6 +1,6 @@
-### I'm Mwila Nyirongo, nice to meet you 
+### I'm Mwila Nyirongo, a Fullstack Javascript/Typescript Developer 
 
-Hi friend, 
+Nice to meet you friend, 
 
 As an Opensource fanatic and slightly experience developer, it would be a pleasure to work together on new and interesting ideas
 
