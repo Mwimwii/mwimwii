@@ -4,6 +4,15 @@ Nice to meet you friend,
 
 As an Opensource fanatic and slightly experience developer, it would be a pleasure to work together on new and interesting ideas
 
+#### My stack
+
+- Javascript/Typescript
+- Next.js/React
+- MVC/MVT
+- Postgres
+- Tailwind/Mantine/Material UI
+  
+
 #### A bit about me:
 
 - I have a Masters of Computer Science from Japan at the Kobe Institute of Computing - (I was actually more excited to go to Japan)
