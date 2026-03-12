@@ -1,29 +1,20 @@
-### I'm Mwila Nyirongo, a Fullstack Javascript/Typescript Developer 
+#### Fullstack Typescript 
 
-Nice to meet you friend, 
-
-As an Opensource fanatic and slightly experience developer, it would be a pleasure to work together on new and interesting ideas
-
-#### My stack
-
-- Javascript/Typescript
-- Next.js/React
-- MVC/MVT
+- Typescript
+- Python
 - Postgres
-- Tailwind/Mantine/Material UI
-  
 
-#### A bit about me:
+- MSc from the Kobe Institute of Computing
+- [JICA](https://www.jica.go.jp/english/) Abe Innitiative Allumni
 
-- I have a Masters of Computer Science from Japan at the Kobe Institute of Computing - (I was actually more excited to go to Japan)
-- I'm a [JICA](https://www.jica.go.jp/english/) Abe Innitiative Allumni
-- At [COMESA](https://www.comesa.int/), I was a consultant on the Zed Border Post project
-- [Justtap](https://justtap.us) and MTN: I was a engineering consultant on developing a Point of Sale solution
-- [GlobalFund](https://www.theglobalfund.org/en/): Consultant on the CSE project to address and prevent underage pregnacnies
-- [Titl](https://www.titl.app/): Full-time lead engineer developing property managemnt tools in Uganda
-- [Smart Zambia Institute](https://www.szi.gov.zm/) as a full time System Developer
+- Worked with:
+- [Syngenta](https://www.syngenta.com)
+- [COMESA](https://www.comesa.int/)
+- [Justtap](https://justtap.us)w/ [MTN](https://mtn.co.zm)
+- [GlobalFund](https://www.theglobalfund.org/en/)
+- [Titl](https://www.titl.app/)
+- [Smart Zambia Institute](https://www.szi.gov.zm/)
 
-Currently looking for some work at the moment, so if you happen to stumble on this profile
 
-Please Reach out to me on [Whatsapp](https://wa.me/+260771589259), [Linkedin](https://linkedin.com/in/mwilv). (Please drop a note if you do)
+Please Reach out to me on [Whatsapp](https://wa.me/+260771589259), [Linkedin](https://linkedin.com/in/mwilv). (Drop a note)
 
